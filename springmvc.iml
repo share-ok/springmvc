@@ -3,6 +3,9 @@
   <component name="FacetManager">
     <facet type="web" name="Web">
       <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
@@ -19,26 +22,22 @@
       <sourceFolder url="file://$MODULE_DIR$/Resource" type="java-resource" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
-    <orderEntry type="library" name="jstl-1.2" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/jar/dom4j.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="file://E:/Soft/tomcat/apache-tomcat-7.0.93/lib" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://E:/Soft/tomcat/apache-tomcat-7.0.93/lib/el-api.jar!/" />
+        </SOURCES>
         <jarDirectory url="file://E:/Soft/tomcat/apache-tomcat-7.0.93/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="dom4j" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.38" level="project" />
+    <orderEntry type="library" name="ruanmou-vip-orm-3.5.5" level="project" />
+    <orderEntry type="library" name="jstl-1.2 (3)" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

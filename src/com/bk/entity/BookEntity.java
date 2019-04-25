@@ -8,14 +8,8 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 /**
- * 软谋教育Java VIP课程
- * <pre>
- *    今日内容:过滤器和监听器
- * </pre>
- *
- * 图书信息实体
- * @author gerry
- * @date 2018-06-28
+ * @author luna
+ * @date 2019-04-24
  */
 @Table("t_book")
 public class BookEntity {
@@ -74,5 +68,13 @@ public class BookEntity {
 
     public void setBookDate(Date bookDate) {
         this.bookDate = bookDate;
+    }
+
+    public BookEntity(String bookName, String bookAuthor) {
+        this.bookName = bookName;
+        this.bookAuthor = bookAuthor;
+    }
+
+    public BookEntity() {
     }
 }

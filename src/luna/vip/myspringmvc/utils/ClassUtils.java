@@ -1,13 +1,8 @@
-package com.bk.util;
+package luna.vip.myspringmvc.utils;
 
 /**
- * 软谋教育Java VIP课程
- * <pre>
- *    Class常用操作的工具类型
- * </pre>
- *
- * @author gerry
- * @date 2018-07-02
+ * @author luna
+ * @date 2019-04-24
  */
 public class ClassUtils {
     /**

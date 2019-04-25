@@ -5,13 +5,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * 软谋教育Java VIP课程
- * <pre>
- *    今日内容:过滤器和监听器
- * </pre>
- *
- * @author gerry
- * @date 2018-07-02
+ * @author luna
+ * @date 2019-04-24
  */
 public class DateUtils {
 

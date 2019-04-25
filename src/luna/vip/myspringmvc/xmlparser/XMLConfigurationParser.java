@@ -1,4 +1,4 @@
-package zss.vip.myspringmvc.xmlparser;
+package luna.vip.myspringmvc.xmlparser;
 
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
@@ -6,6 +6,10 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 import java.io.InputStream;
 
+/**
+ * @author luna
+ * @date 2019-04-24
+ */
 public class XMLConfigurationParser {
     public static String ReadXMLBasePackage (String configPath) throws DocumentException {
         SAXReader reader = new SAXReader();

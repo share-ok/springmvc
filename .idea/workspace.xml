@@ -6,7 +6,72 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4094b534-5185-498e-9880-707ad9a05492" name="Default" comment="" />
+    <list default="true" id="4094b534-5185-498e-9880-707ad9a05492" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/dom4j.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2__2_.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2__3_.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_38.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ruanmou_vip_orm_3_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRequestMapping.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/dom4j.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/add.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/add.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/list.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/update.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/update.jsp" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookController.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookNewController.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookNewController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/dao/impl/BookDAOImpl.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/dao/impl/BookDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/entity/BookEntity.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/entity/BookEntity.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/filter/CharacterEncodingFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/filter/CharacterEncodingFilter.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/BeanUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/BeanUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/ClassUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/ClassUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/DateUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/DateUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/StringUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/StringUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookController.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookController.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookNewController.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookNewController.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/dao/impl/BookDAOImpl.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/dao/impl/BookDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/entity/BookEntity.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/entity/BookEntity.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/filter/CharacterEncodingFilter.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/filter/CharacterEncodingFilter.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/BeanUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/BeanUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/ClassUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/ClassUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/DateUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/DateUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/StringUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/StringUtils.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/DispatcherServlet$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/DispatcherServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyAutowired.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/utils/ReflectUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/springmvc.iml" afterPath="$PROJECT_DIR$/springmvc.iml" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/base/BaseServlet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/controller/BookController.java" afterPath="$PROJECT_DIR$/src/com/bk/controller/BookController.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" afterPath="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/dao/BookDAO.java" afterPath="$PROJECT_DIR$/src/com/bk/dao/BookDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" afterPath="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/entity/BookEntity.java" afterPath="$PROJECT_DIR$/src/com/bk/entity/BookEntity.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java" afterPath="$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/util/BeanUtils.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/util/ClassUtils.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ClassUtils.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/util/DateUtils.java" afterPath="$PROJECT_DIR$/src/com/bk/util/DateUtils.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/bk/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/com/bk/util/StringUtils.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyAutowired.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyAutowired.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyController.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyController.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRepository.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRepository.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyService.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyService.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/utils/ReflectUtil.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ReflectUtil.java" />
+      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,16 +80,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/springmvc$springmvc.coverage" NAME="springmvc Coverage Results" MODIFIED="1556174701779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springmvc" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf>
+      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1079">
+              <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1365#1366#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
+                <element signature="method#urlMappingToMethod#0;class#DispatcherServlet#0" expanded="false" />
+                <element signature="method#doDI#0;class#DispatcherServlet#0" expanded="false" />
+                <element signature="method#doIOC#0;class#DispatcherServlet#0" expanded="false" />
+                <element signature="method#scanBasePackageAnnotationClass#0;class#DispatcherServlet#0" expanded="false" />
+                <element signature="e#11959#11960#0" expanded="true" />
+                <element signature="e#12012#12013#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -37,16 +144,35 @@
         <option value="$PROJECT_DIR$/src/bk/base/BaseServlet.java" />
         <option value="$PROJECT_DIR$/src/com/bk/base/BaseServlet.java" />
         <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MySerivce.java" />
-        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyService.java" />
-        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRepository.java" />
-        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyController.java" />
-        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyAutowired.java" />
-        <option value="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" />
-        <option value="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" />
         <option value="$PROJECT_DIR$/Resource/applicationContenx.xml" />
-        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/BookNewController.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/entity/BookEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/util/ClassUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyAutowired.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyController.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRepository.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyService.java" />
         <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/utils/ReflectUtil.java" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" />
         <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRequestMapping.java" />
+        <option value="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" />
+        <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ReflectUtil.java" />
+        <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/bk/util/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java" />
       </list>
     </option>
   </component>
@@ -64,10 +190,32 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="532" />
-    <option name="y" value="52" />
+    <option name="x" value="504" />
+    <option name="y" value="211" />
     <option name="width" value="1577" />
     <option name="height" value="829" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WebProperties</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -84,8 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,19 +243,28 @@
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringmvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="myspringmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,14 +273,20 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20216306" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="E:/Soft/tomcat/apache-tomcat-7.0.93/lib/el-api.jar!/" />
+    <property name="TODO_SCOPE" value="All Places" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zss.vip.myspringmvc" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mine_workspace\springmvc\src\luna\vip\myspringmvc\utils" />
+      <recent name="E:\mine_workspace\springmvc\web\WEB-INF\lib" />
+      <recent name="E:\mine_workspace\springmvc\web\WEB-INF" />
       <recent name="E:\mine_workspace\springmvc\src\com\bk" />
       <recent name="E:\mine_workspace\springmvc\src" />
-      <recent name="E:\mine_workspace\springmvc\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -139,13 +301,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DispatcherServlet">
+  <component name="RunManager" selected="Tomcat Server.springmvc">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="DispatcherServlet (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="luna.vip.myspringmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="luna.vip.myspringmvc.DispatcherServlet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="springmvc" />
+      <envs />
     </configuration>
     <configuration name="DispatcherServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -353,17 +534,19 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.springmvc" />
       <item index="1" class="java.lang.String" itemvalue="Application.XMLConfigurationParser" />
       <item index="2" class="java.lang.String" itemvalue="Application.DispatcherServlet" />
       <item index="3" class="java.lang.String" itemvalue="Application.ReflectUtil" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DispatcherServlet (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.DispatcherServlet" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReflectUtil" />
-        <item index="2" class="java.lang.String" itemvalue="Application.XMLConfigurationParser" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.DispatcherServlet (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DispatcherServlet" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReflectUtil" />
+        <item index="3" class="java.lang.String" itemvalue="Application.XMLConfigurationParser" />
       </list>
     </recent_temporary>
   </component>
@@ -387,46 +570,57 @@
       <workItem from="1555917285814" duration="15131000" />
       <workItem from="1556093655580" duration="767000" />
       <workItem from="1556094584479" duration="901000" />
+      <workItem from="1556154598010" duration="18816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18865000" />
+    <option name="totallyTimeSpent" value="37681000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4651972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26796326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.49393415" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36786962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24563445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5518044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.50606585" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3041599" sideWeight="0.48754448" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36194897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28579146" sideWeight="0.5124555" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,22 +631,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
@@ -465,39 +653,6 @@
         <state relative-caret-position="576">
           <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/controller/BookNewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/book/add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -512,48 +667,6 @@
     <entry file="file://$PROJECT_DIR$/src/bk/util/BeanUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/bk/controller/BookController.java" />
     <entry file="file://$PROJECT_DIR$/src/bk/base/BaseServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/ClassUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/entity/BookEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/BeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/annotation/Retention.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -561,71 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/annotation/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="76" column="10" lean-forward="false" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/annotation/ElementType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
           <caret line="80" column="10" lean-forward="false" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyAutowired.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/controller/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="68" lean-forward="false" selection-start-line="30" selection-start-column="68" selection-end-line="30" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -643,20 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Soft/tomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -668,56 +706,435 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/utils/ReflectUtil.java">
+    <entry file="file://$PROJECT_DIR$/Resource/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1522#1523#0" expanded="false" />
-            <element signature="e#1608#1609#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/BookNewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="426" column="0" lean-forward="false" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="20" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/entity/BookEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyAutowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bk/dao/BookDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/controller/BookNewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="108">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/book/add.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/book/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/book/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="58" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="266" column="28" lean-forward="false" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Soft/tomcat/apache-tomcat-7.0.93/lib/servlet-api.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ReflectUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="e#1736#1737#0" expanded="true" />
+            <element signature="e#1822#1823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Soft/tomcat/apache-tomcat-7.0.93/lib/catalina.jar!/org/apache/catalina/core/StandardWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="666" column="5" lean-forward="false" selection-start-line="666" selection-start-column="5" selection-end-line="666" selection-end-column="5" />
+          <folding>
+            <marker date="1550290506000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1550290506000" expanded="false" signature="148:2099" ph="..." />
+            <marker date="1550290506000" expanded="true" signature="4050:4068" ph="/**...*/" />
+            <marker date="1550290506000" expanded="true" signature="4548:4666" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="4702:4713" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="4737:4743" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="4796:4807" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="4838:4844" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="4876:4887" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="4909:4915" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="4962:5252" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="5288:5299" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="5332:5338" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="5367:5378" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="5432:5438" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="5487:5498" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="5526:5532" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="5568:5669" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="5715:5905" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="5960:6137" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="6181:6192" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="6241:6247" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="6281:6292" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="6317:6323" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="6375:6566" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="6615:7088" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="7118:7129" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="7147:7153" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="7194:7339" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="7376:7387" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="7412:7418" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="7473:7791" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="7836:7847" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="7866:7872" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="7915:8019" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="8056:8368" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="8434:9573" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="9606:9617" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="9638:9644" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="9689:9700" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="9724:9730" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="9800:9807" ph="{}" />
+            <marker date="1550290506000" expanded="true" signature="9845:10132" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="10195:10591" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="10634:10645" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="10719:10725" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="10787:11050" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="11114:11125" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="11176:11182" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="11227:11561" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="11626:11892" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="11948:15425" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="15495:15871" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="15922:16174" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="16217:16556" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="16593:16875" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="16930:17182" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="17229:17568" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="17574:17592" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="17647:17658" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="17698:17704" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="17766:18572" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="18644:22695" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="22769:22776" ph="{}" />
+            <marker date="1550290506000" expanded="true" signature="22861:24526" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="24577:24839" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="24907:24977" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="25025:25365" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="25420:25686" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="25717:26031" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="26095:26699" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="26763:33042" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="33091:33102" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="33138:33144" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="33201:33474" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="33522:33722" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="33758:33769" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="33791:33797" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="33834:33845" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="33885:33891" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="33897:33915" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="33986:33997" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34044:34050" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="34080:34091" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34124:34130" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="34136:34154" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="34211:34222" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34255:34261" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="34291:34302" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34335:34341" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="34347:34365" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="34422:34433" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34466:34472" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="34506:34517" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34555:34561" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="34567:34585" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="34651:34662" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34705:34711" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="34743:34754" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34790:34796" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="34802:34820" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="34882:34893" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="34932:34938" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="34977:34988" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35023:35029" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35060:35071" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35092:35098" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="35104:35122" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="35181:35192" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35217:35223" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35258:35269" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35295:35301" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35364:35375" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35410:35416" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="35507:35576" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="35615:35626" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35653:35659" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35718:35729" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35766:35772" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35804:35815" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35835:35841" ph=" }" />
+            <marker date="1550290506000" expanded="false" signature="35886:35897" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="35920:35926" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="35995:36428" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="36487:37320" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="37396:37973" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="38048:39037" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="39089:39464" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="39513:40615" ph="{...}" />
+            <marker date="1550290506000" expanded="false" signature="40655:40666" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="40679:40685" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="40836:40922" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="40981:41848" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="41995:42078" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="42187:42257" ph="{...}" />
+            <marker date="1550290506000" expanded="true" signature="42263:42281" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="42334:42345" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="42358:42364" ph=" }" />
+            <marker date="1550290506000" expanded="true" signature="42370:42388" ph="/**...*/" />
+            <marker date="1550290506000" expanded="false" signature="42446:42457" ph=" { " />
+            <marker date="1550290506000" expanded="false" signature="42470:42476" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/ClassUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ClassUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/controller/BookNewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bk/base/BaseServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="448">
+          <caret line="76" column="29" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="76" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1079">
+          <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="method#urlMappingToMethod#0;class#DispatcherServlet#0" expanded="false" />
+            <element signature="method#doDI#0;class#DispatcherServlet#0" expanded="false" />
+            <element signature="method#doIOC#0;class#DispatcherServlet#0" expanded="false" />
+            <element signature="method#scanBasePackageAnnotationClass#0;class#DispatcherServlet#0" expanded="false" />
+            <element signature="e#11959#11960#0" expanded="true" />
+            <element signature="e#12012#12013#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -731,7 +1148,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20216306" />
                 <option value="0.5" />
               </list>
             </option>
@@ -744,7 +1161,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20216306" />
               </list>
             </option>
           </splitter-proportions>
@@ -755,7 +1172,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20216306" />
               </list>
             </option>
           </splitter-proportions>
@@ -767,7 +1184,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20216306" />
               </list>
             </option>
           </splitter-proportions>
@@ -775,12 +1192,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springmvc</last-edited>
+          <last-edited>Web|springmvc</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.20216306" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

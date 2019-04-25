@@ -1,15 +1,13 @@
-package zss.vip.myspringmvc.utils;
+package luna.vip.myspringmvc.utils;
 
-import zss.vip.myspringmvc.DispatcherServlet;
-import zss.vip.myspringmvc.annotation.MyController;
-import zss.vip.myspringmvc.annotation.MyRepository;
-import zss.vip.myspringmvc.annotation.MyService;
+import luna.vip.myspringmvc.DispatcherServlet;
+import luna.vip.myspringmvc.annotation.MyController;
+import luna.vip.myspringmvc.annotation.MyRepository;
+import luna.vip.myspringmvc.annotation.MyService;
 
 /**
- * Created with IntelliJ IDEA
- * Created By zhangshanshan
- * Date: 2019/4/23
- * Time: 16:46
+ * @author luna
+ * @date 2019-04-24
  */
 public class ReflectUtil {
 
@@ -26,6 +24,12 @@ public class ReflectUtil {
         return first.concat(end);
     }
 
+    /**
+     * 获取类别名（若注解有别名，则取）
+     *
+     * @param className
+     * @return
+     */
     public static String getAnnotationAlias(Class<?> className) {
         String simpleName = getLowerAlias(className);
         MyController myController = className.getAnnotation(MyController.class);
@@ -40,6 +44,15 @@ public class ReflectUtil {
             simpleName = myService.value();
         }
         return simpleName;
+    }
+
+    /**
+     * 处理请求路径
+     * @param url
+     * @return
+     */
+    public static String handleUrl(String url) {
+        return url.startsWith("/") ? url : "/".concat(url);
     }
 
 

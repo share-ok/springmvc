@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ruanmou-vip-orm-3.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ruanmou-vip-orm-3.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

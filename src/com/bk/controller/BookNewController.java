@@ -2,29 +2,25 @@ package com.bk.controller;
 
 import com.bk.dao.BookDAO;
 import com.bk.entity.BookEntity;
-import zss.vip.myspringmvc.annotation.MyAutowired;
-import zss.vip.myspringmvc.annotation.MyController;
+import luna.vip.myspringmvc.annotation.MyAutowired;
+import luna.vip.myspringmvc.annotation.MyController;
+import luna.vip.myspringmvc.annotation.MyRequestMapping;
 
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * 软谋教育Java VIP课程
- * <pre>
- *    今日内容:过滤器和监听器
- * </pre>
- *
- * @author gerry
- * @date 2018-06-28
+ * @author luna
+ * @date 2019-04-24
  */
 @MyController
+@MyRequestMapping("book")
 public class BookNewController {
 
     @MyAutowired
     private BookDAO dao;
 
-
-    // 初始化图书信息方法
+    @MyRequestMapping("listBook")
     public String list(HttpServletRequest request) {
         List<BookEntity> books = dao.getBooks();
         // 把books保存到request对象中(保证request对象存储的数据不丢失)

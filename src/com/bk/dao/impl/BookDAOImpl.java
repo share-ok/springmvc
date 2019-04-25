@@ -4,18 +4,13 @@ import com.bk.dao.BookDAO;
 import com.bk.entity.BookEntity;
 import com.ruanmou.vip.orm.core.handler.HandlerTemplate;
 import com.ruanmou.vip.orm.core.handler.mysql.MySQLTemplateHandler;
-import zss.vip.myspringmvc.annotation.MyRepository;
+import luna.vip.myspringmvc.annotation.MyRepository;
 
 import java.util.List;
 
 /**
- * 软谋教育Java VIP课程
- * <pre>
- *    今日内容:过滤器和监听器
- * </pre>
- *
- * @author gerry
- * @date 2018-06-28
+ * @author luna
+ * @date 2019-04-24
  */
 @MyRepository
 public class BookDAOImpl implements BookDAO {
