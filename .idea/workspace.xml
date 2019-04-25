@@ -7,70 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4094b534-5185-498e-9880-707ad9a05492" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/dom4j.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2__2_.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2__3_.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_38.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ruanmou_vip_orm_3_5_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRequestMapping.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/dom4j.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/add.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/add.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/list.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/list.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/update.jsp" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/book/update.jsp" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookController.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookController.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookNewController.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/controller/BookNewController.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/dao/impl/BookDAOImpl.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/dao/impl/BookDAOImpl.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/entity/BookEntity.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/entity/BookEntity.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/filter/CharacterEncodingFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/filter/CharacterEncodingFilter.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/BeanUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/BeanUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/ClassUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/ClassUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/DateUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/DateUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/StringUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_war_exploded/WEB-INF/classes/com/bk/util/StringUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookController.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookController.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookNewController.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/controller/BookNewController.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/dao/impl/BookDAOImpl.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/dao/impl/BookDAOImpl.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/entity/BookEntity.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/entity/BookEntity.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/filter/CharacterEncodingFilter.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/filter/CharacterEncodingFilter.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/BeanUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/BeanUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/ClassUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/ClassUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/DateUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/DateUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/StringUtils.class" afterPath="$PROJECT_DIR$/out/production/springmvc/com/bk/util/StringUtils.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/DispatcherServlet$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/DispatcherServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyAutowired.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyRepository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/annotation/MyService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/utils/ReflectUtil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/springmvc/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/springmvc.iml" afterPath="$PROJECT_DIR$/springmvc.iml" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/base/BaseServlet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/controller/BookController.java" afterPath="$PROJECT_DIR$/src/com/bk/controller/BookController.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" afterPath="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/dao/BookDAO.java" afterPath="$PROJECT_DIR$/src/com/bk/dao/BookDAO.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" afterPath="$PROJECT_DIR$/src/com/bk/dao/impl/BookDAOImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/entity/BookEntity.java" afterPath="$PROJECT_DIR$/src/com/bk/entity/BookEntity.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java" afterPath="$PROJECT_DIR$/src/com/bk/filter/CharacterEncodingFilter.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/util/BeanUtils.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/util/ClassUtils.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ClassUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/util/DateUtils.java" afterPath="$PROJECT_DIR$/src/com/bk/util/DateUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/bk/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/com/bk/util/StringUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/DispatcherServlet.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyAutowired.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyAutowired.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyController.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyController.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRepository.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyRepository.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyService.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/annotation/MyService.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/utils/ReflectUtil.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ReflectUtil.java" />
-      <change beforePath="$PROJECT_DIR$/src/zss/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" afterPath="$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,35 +25,16 @@
     <favorites_list name="springmvc" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1079">
-              <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1365#1366#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="method#urlMappingToMethod#0;class#DispatcherServlet#0" expanded="false" />
-                <element signature="method#doDI#0;class#DispatcherServlet#0" expanded="false" />
-                <element signature="method#doIOC#0;class#DispatcherServlet#0" expanded="false" />
-                <element signature="method#scanBasePackageAnnotationClass#0;class#DispatcherServlet#0" expanded="false" />
-                <element signature="e#11959#11960#0" expanded="true" />
-                <element signature="e#12012#12013#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -164,7 +83,6 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/book/add.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/book/list.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/book/update.jsp" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/zss/vip/myspringmvc/annotation/MyRequestMapping.java" />
         <option value="$PROJECT_DIR$/src/com/bk/controller/BookNewController.java" />
         <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/ReflectUtil.java" />
@@ -173,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/com/bk/util/BeanUtils.java" />
         <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java" />
         <option value="$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -232,7 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,15 +174,16 @@
               <item name="springmvc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="myspringmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="xmlparser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,11 +201,11 @@
       <recent name="zss.vip.myspringmvc" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mine_workspace" />
       <recent name="E:\mine_workspace\springmvc\src\luna\vip\myspringmvc\utils" />
       <recent name="E:\mine_workspace\springmvc\web\WEB-INF\lib" />
       <recent name="E:\mine_workspace\springmvc\web\WEB-INF" />
       <recent name="E:\mine_workspace\springmvc\src\com\bk" />
-      <recent name="E:\mine_workspace\springmvc\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -570,12 +489,21 @@
       <workItem from="1555917285814" duration="15131000" />
       <workItem from="1556093655580" duration="767000" />
       <workItem from="1556094584479" duration="901000" />
-      <workItem from="1556154598010" duration="18816000" />
+      <workItem from="1556154598010" duration="18891000" />
+      <workItem from="1556185369704" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="优化">
+      <created>1556185308829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556185308829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37681000" />
+    <option name="totallyTimeSpent" value="37801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,37 +518,37 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.49393415" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36786962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24563445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5518044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.50606585" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3041599" sideWeight="0.48754448" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24635333" sideWeight="0.48754448" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.49393415" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36786962" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28579146" sideWeight="0.5124555" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24563445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.50606585" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,6 +556,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -710,18 +642,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/BookNewController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zss/vip/myspringmvc/BookNewController.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -818,22 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/annotation/Target.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-49">
           <caret line="266" column="28" lean-forward="false" selection-start-line="266" selection-start-column="28" selection-end-line="266" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,10 +779,10 @@
         <state relative-caret-position="360">
           <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="34" />
           <folding>
-            <element signature="e#1623#1624#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-            <element signature="e#1736#1737#0" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
+            <element signature="e#1623#1624#0" expanded="false" />
+            <element signature="e#1689#1690#0" expanded="false" />
+            <element signature="e#1736#1737#0" expanded="false" />
+            <element signature="e#1822#1823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1036,16 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -1054,14 +955,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/ClassUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/ClassUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/com/bk/util/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-72">
@@ -1094,36 +988,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/base/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="76" column="29" lean-forward="true" selection-start-line="70" selection-start-column="27" selection-end-line="76" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bk/util/BeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="33" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="43" column="41" lean-forward="true" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bk/base/BaseServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bk/util/BeanUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1079">
-          <caret line="117" column="28" lean-forward="true" selection-start-line="117" selection-start-column="28" selection-end-line="117" selection-end-column="28" />
+        <state relative-caret-position="160">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1365#1366#0" expanded="true" />
@@ -1135,6 +1005,35 @@
             <element signature="e#11959#11960#0" expanded="true" />
             <element signature="e#12012#12013#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/utils/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="43" column="41" lean-forward="false" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/luna/vip/myspringmvc/xmlparser/XMLConfigurationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
